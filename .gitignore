@@ -1,2 +1,6 @@
 
 api_key.py
+
+### Jetbrains IDEA ###
+*.iml
+.idea
